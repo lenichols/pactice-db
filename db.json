@@ -1,5 +1,5 @@
 { "pinfo": [
-		{"customerId":27346,"customerNumber":"0000008015","customerName":"North Medical Foundation" },
-		{"customerId":70002,"customerNumber":"0000001901","customerName":"Del Ray Oncology" }
+		{"customerId":27346,"customerNumber":"0000008015","customerName":"North Medical Foundation", "citystate": "Palmdale, CA" },
+		{"customerId":70002,"customerNumber":"0000001901","customerName":"Del Ray Oncology", "citystate": "Allentown, PA" }
 	]
 }
